@@ -2,6 +2,13 @@
 
 This is a Java program that converts a given phrase into Morse Code. The program uses a HashMap to store the mapping of characters to their corresponding Morse Code representations. It reads user input, converts the input phrase to uppercase, and then looks up the Morse Code for each character. The resulting Morse Code is displayed as the output.
 
+# Table of Contents
+
+- [How to use](#how-to-use)
+- [Code Explaination](#code-explaination)
+- [Example](#examples)
+
+
 ## How to use
 1. Save the Java code in a file named `morsecode.java`
 2. Ensure you have Java installed on your system.
