@@ -25,3 +25,11 @@ This is a Java program that converts a given phrase into Morse Code. The program
 * `main` method: The entry point of the program. It prompts the user to enter a phrase and then calls the `toMorseCode` method to convert the phrase into Morse Code. The resulting Morse Code is then displayed on the screen.
 
 * `toMorseCode` method: This method takes a string input and converts it into Morse Code. It converts the input string to uppercase and iterates through each character. If the character exists in the `morseCodeMap`, it appends the corresponding Morse Code to the result string.
+
+## Examples:
+```bash
+javac morsecode.java
+java morsecode
+Enter a phrase to convert into MorseCode : Hello World
+Morse Code: .... . .-.. .-.. ---   .-- --- .-. .-.. -..
+```
