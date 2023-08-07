@@ -5,7 +5,7 @@ This is a Java program that converts a given phrase into Morse Code. The program
 # Table of Contents
 
 - [How to use](#how-to-use)
-- [Code Explaination](#code-explaination)
+- [Code Explaination](#code-explanation)
 - [Example](#examples)
 
 
